@@ -1,9 +1,9 @@
 # sbci_datasets
 This repository contains structural connectivity (SC), functional connectivity (FC) and SC-FC coupling data preprocessed by the SBCI pipeline.
 
-Human Connectome Project Young Adult Data (TBA)
+Human Connectome Project Young Adult Data 
 
-ABCD Study (TBA)
+ABCD Study
 
-UK Biobank (TBA)
+UK Biobank
 
