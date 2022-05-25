@@ -7,5 +7,5 @@ ABCD Study
 
 UK Biobank
 
-Due to the size and DUA, we can't publish the SBCI connectomes here. Please contact Dr. Zhang (zhengwu_zhang@unc.edu) if you want to use connectomes produced by SBCI. 
+Due to the size and DUAs, we can't publish the SBCI connectomes here. Please contact Dr. Zhang (zhengwu_zhang@unc.edu) if you want to use connectomes produced by SBCI. 
 
